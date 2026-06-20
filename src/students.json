@@ -1,0 +1,38 @@
+[
+  {
+  "name": "Michael",
+  "books": [
+    {
+      "title": "War and Peace",
+      "year": 1995,
+      "pages": 5069
+    },
+    {
+      "title": "Anna Korenina",
+      "year": 1999,
+      "pages": 1000
+    }
+
+
+  ]
+
+  },
+  {
+    "name": "Michael",
+    "books": [
+      {
+        "title": "War and Peace",
+        "year": 1995,
+        "pages": 5069
+      },
+      {
+        "title": "Anna Korenina",
+        "year": 1999,
+        "pages": 1000
+      }
+
+
+    ]
+
+  }
+]
