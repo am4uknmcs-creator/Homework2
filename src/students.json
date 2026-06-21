@@ -1,38 +1,63 @@
 [
   {
-  "name": "Michael",
+  "name": "Миша",
   "books": [
     {
-      "title": "War and Peace",
-      "year": 1995,
-      "pages": 5069
+      "title": "1984",
+      "year": 1949,
+      "pages": 320
     },
     {
-      "title": "Anna Korenina",
-      "year": 1999,
-      "pages": 1000
+      "title": "Бойцовский клуб",
+      "year": 1996,
+      "pages": 256
+    },
+    {
+      "title": "Тень ветра",
+      "year": 2001,
+      "pages": 488
+    },
+    {
+      "title": "Книжный вор",
+      "year": 2005,
+      "pages": 552
+    },
+    {
+      "title": "Вторая жизнь Уве",
+      "year": 2012,
+      "pages": 384
     }
-
-
   ]
 
   },
   {
-    "name": "Michael",
+    "name": "Петя",
     "books": [
       {
-        "title": "War and Peace",
-        "year": 1995,
-        "pages": 5069
+        "title": "Мастер и Маргарита",
+        "year": 1967,
+        "pages": 448
       },
       {
-        "title": "Anna Korenina",
-        "year": 1999,
-        "pages": 1000
+        "title": "Sapiens. Краткая история человечества",
+        "year": 2011,
+        "pages": 512
+      },
+      {
+        "title": "Бойцовский клуб",
+        "year": 1996,
+        "pages": 256
+      },
+      {
+        "title": "Тень ветра",
+        "year": 2001,
+        "pages": 488
+      },
+      {
+        "title": "Вторая жизнь Уве",
+        "year": 2012,
+        "pages": 384
       }
-
-
     ]
-
   }
 ]

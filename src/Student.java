@@ -1,11 +1,10 @@
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
-
 import java.util.List;
 
 public class Student {
-    private String name;
-    private List<Book> books;
+    private final String name;
+    private final List<Book> books;
 
     @JsonCreator
     public Student (@JsonProperty("name") String name, @JsonProperty("books") List<Book> books) {
@@ -16,12 +15,12 @@ public class Student {
     public String getName() {
         return name;
     }
-
     public List<Book> getBooks() {
         return books;
     }
+
     @Override
     public String toString() {
-        return "Студент: " + name;
+        return  name;
     }
 }
