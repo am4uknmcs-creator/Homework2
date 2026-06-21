@@ -22,6 +22,7 @@ public class Book {
    public int getPages() {
       return pages;
    }
+
    @Override
    public boolean equals(Object o) {
       if (this == o) return true;
@@ -32,10 +33,6 @@ public class Book {
    @Override
    public int hashCode() {
       return Objects.hash(title, year, pages);
-   }
-   @Override
-   public String toString() {
-      return String.format("'%s' (%d г., %d стр.)", title, year, pages);
    }
 }
 
